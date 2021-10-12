@@ -1,0 +1,11 @@
+{ // 기본 룰 셋팅 : https://eslint.org/docs/rules/  참조
+  "extends": "eslint:recommended",
+  "env": { // eslint 동작 환경 
+    "node": true,
+    "es2021": true
+  },
+  "rules": {
+    // 룰 설정 
+  }
+
+}
